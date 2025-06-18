@@ -1,2 +1,2 @@
-# ai-tools-task1-iris
-Assignment 1: Iris Classifier Project using Scikit-learn
+# AI Tools Task 1 Iris
+## Assignment 1: Iris Classifier Project using Scikit-learn
