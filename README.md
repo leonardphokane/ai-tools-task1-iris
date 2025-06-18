@@ -1,60 +1,58 @@
-AI Tools Assignment
-Description
-•	Frameworks: TensorFlow, PyTorch, Scikit-learn, spaCy.
-•	Platforms: Google Colab (free GPU), Jupyter Notebook.
-•	Datasets: Kaggle, TensorFlow Datasets.
-________________________________________
-Why This Matters
-•	Real-World Impact: These tools power industries from healthcare to finance.
-•	Skill Validation: Employers seek proficiency in TensorFlow, PyTorch, and Scikit-learn.
-Deadline: 7 days. Showcase your AI toolkit mastery! 🚀
-________________________________________
-Need Help?
-•	Use official documentation: TensorFlow, PyTorch, spaCy.
-•	Post questions on the LMS Community with #AIToolsAssignment.
-Pro Tip: Test code incrementally—small wins lead to big successes! 💡
-Part 1: Theoretical Understanding (40%)
-1. Short Answer Questions
-•	Q1: Explain the primary differences between TensorFlow and PyTorch. When would you choose one over the other?
-•	Q2: Describe two use cases for Jupyter Notebooks in AI development.
-•	Q3: How does spaCy enhance NLP tasks compared to basic Python string operations?
-2. Comparative Analysis
-•	Compare Scikit-learn and TensorFlow in terms of:
-o	Target applications (e.g., classical ML vs. deep learning).
-o	Ease of use for beginners.
-o	Community support.
-________________________________________
-Part 2: Practical Implementation (50%)
-Task 1: Classical ML with Scikit-learn
-•	Dataset: Iris Species Dataset
-•	Goal:
-1.	Preprocess the data (handle missing values, encode labels).
-2.	Train a decision tree classifier to predict iris species.
-3.	Evaluate using accuracy, precision, and recall.
-•	Deliverable: Python script/Jupyter notebook with comments explaining each step.
-Task 2: Deep Learning with TensorFlow/PyTorch
-•	Dataset: MNIST Handwritten Digits
-•	Goal:
-1.	Build a CNN model to classify handwritten digits.
-2.	Achieve >95% test accuracy.
-3.	Visualize the model’s predictions on 5 sample images.
-•	Deliverable: Code with model architecture, training loop, and evaluation.
-Task 3: NLP with spaCy
-•	Text Data: User reviews from Amazon Product Reviews.
-•	Goal:
-1.	Perform named entity recognition (NER) to extract product names and brands.
-2.	Analyze sentiment (positive/negative) using a rule-based approach.
-•	Deliverable: Code snippet and output showing extracted entities and sentiment.
-________________________________________
-Part 3: Ethics & Optimization (10%)
-1. Ethical Considerations
-•	Identify potential biases in your MNIST or Amazon Reviews model. How could tools like TensorFlow Fairness Indicators or spaCy’s rule-based systems mitigate these biases?
-2. Troubleshooting Challenge
-•	Buggy Code: A provided TensorFlow script has errors (e.g., dimension mismatches, incorrect loss functions). Debug and fix the code.
-________________________________________
-Bonus Task (Extra 10%)
-•	Deploy Your Model: Use Streamlit or Flask to create a web interface for your MNIST classifier. Submit a screenshot and a live demo link.
-________________________________________
- 
+# 🌼 AI Tools Assignment – Task 1: Iris Species Classifier
 
+This repository contains the implementation of a Decision Tree Classifier using Scikit-learn to classify iris flower species based on petal and sepal measurements. The notebook walks through dataset exploration, model training, evaluation, and basic data visualization.
+
+---
+
+## 📁 Folder Structure
+
+
+---
+
+## 🧪 Technologies Used
+
+- Python 3.10+
+- Scikit-learn
+- Pandas
+- Matplotlib
+- spaCy (NER + sentiment example)
+- Jupyter Notebook / VS Code
+
+---
+
+## 📊 Tasks Covered
+
+- Dataset loading and preprocessing
+- Decision Tree training with Scikit-learn
+- Model evaluation using classification report
+- Visualization: scatter plot + decision tree diagram
+- Named Entity Recognition (NER) and basic sentiment analysis
+- Ethical reflection and theoretical questions
+
+---
+
+## 📄 Submission Notes
+
+This repo was prepared as part of the **AI Tools Assignment** for the **PowerLearn Project (Feb 2025, Cohort VII)**.
+
+📎 A detailed PDF report (`Task_1_Short_Answers_Leonard.pdf`) is included with:
+- Answers to short theory questions  
+- Ethical reflection on AI model usage  
+- Screenshots of model outputs (classification report, NER, sentiment)
+
+---
+
+## ✅ Author
+
+**Leonard Mokgadi**  
+PowerLearn Project – Software Development Cohort VII  
+Date: June 2025
+
+---
+
+## 📬 Feedback & Contributions
+
+Pull requests and feedback are welcome if you're exploring similar decision tree projects or looking to learn Scikit-learn basics!
+
+---
 
