@@ -1,4 +1,4 @@
-# AI Tools Task 1 Iris
+# AI Tools Assignment: AI Tools and Applications
 ## Assignment 1: Iris Classifier Project using Scikit-learn
 
 
