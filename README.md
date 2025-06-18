@@ -44,7 +44,7 @@ This repo was prepared as part of the **AI Tools Assignment** for the **PowerLea
 
 ## ✅ Author
 
-**Leonard Mokgadi**  
+**Leonard Phokane**  
 PowerLearn Project – Software Development Cohort VII  
 Date: June 2025
 
