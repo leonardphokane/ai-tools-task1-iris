@@ -47,7 +47,7 @@ This repo was prepared as part of the **AI Tools Assignment** for the **Power Le
 **Leonard Phokane**  
 Power Learn Project | Academy – Software Development Cohort VII  
 Date: June 2025
-📧 Email: leonardphokane1@gmail.com
+📧 Email: leonardphokane1@gmail.com<br></br>
 🔗 GitHub: https://github.com/leonardphokane
 
 
