@@ -33,7 +33,7 @@ This repository contains the implementation of a Decision Tree Classifier using 
 
 ## 📄 Submission Notes
 
-This repo was prepared as part of the **AI Tools Assignment** for the **PowerLearn Project (Feb 2025, Cohort VII)**.
+This repo was prepared as part of the **AI Tools Assignment** for the **Power Learn Project | Academy (Feb 2025, Cohort VII)**.
 
 📎 A detailed PDF report (`Task_1_Short_Answers_Leonard.pdf`) is included with:
 - Answers to short theory questions  
@@ -47,7 +47,6 @@ This repo was prepared as part of the **AI Tools Assignment** for the **PowerLea
 **Leonard Phokane**  
 Power Learn Project | Academy – Software Development Cohort VII  
 Date: June 2025
-
 📧 Email: leonardphokane1@gmail.com
 🔗 GitHub: https://github.com/leonardphokane
 🔗 LinkedIn: https://www.linkedin.com/in/leonard-phokane
