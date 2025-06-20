@@ -49,7 +49,7 @@ Power Learn Project | Academy – Software Development Cohort VII
 Date: June 2025
 📧 Email: leonardphokane1@gmail.com
 🔗 GitHub: https://github.com/leonardphokane
-🔗 LinkedIn: https://www.linkedin.com/in/leonard-phokane
+
 
 ---
 
